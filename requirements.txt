@@ -4,6 +4,5 @@ matplotlib
 datetime
 yfinance 
 streamlit
-io 
 base64
 plotly
