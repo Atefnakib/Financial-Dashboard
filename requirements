@@ -1,10 +1,9 @@
 numpy
 pandas 
-matplotlib.pyplot
-plotly.graph_objects
+matplotlib
 datetime
 yfinance 
 streamlit
-io import 
+io 
 base64
-plotly.subplots 
+plotly
